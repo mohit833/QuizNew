@@ -1,0 +1,28 @@
+Quiz Title:General Knowledge
+What is the capital of France?|Paris,London,Berlin,Tokyo|1
+Which planet is known as the Red Planet?|Venus,Earth,Mars,Jupiter|3
+What is the chemical symbol for water?|O2,CO2,H2O,NaCl|3
+In what year did the Titanic sink?|1912,1923,1905,1898|1
+
+Quiz Title:Math and Logic
+What is 10 + 10?|20,30,40,50|1
+What is the square root of 64?|6,8,10,12|1
+Solve: 6 * 7|41,36,42,52|3
+
+Quiz Title:Science and Nature
+What gas do plants breathe in?|Oxygen,Carbon Dioxide,Nitrogen,Hydrogen|1
+What is the hardest natural substance on Earth?|Diamond,Gold,Iron,Water|1
+
+Quiz Title:Literature and Arts
+Who wrote 'Hamlet'?|Charles Dickens,Mark Twain,William Shakespeare,Leo Tolstoy|3
+In which century was Leonardo da Vinci born?|15th,16th,17th,14th|2
+
+Quiz Title:Technology
+What year was the first iPhone released?|2005,2007,2010,2012|1
+Which company developed the Java programming language?|Apple,Microsoft,Sun Microsystems,Google|3
+Quiz Title:env
+world env day|march 8,feb 1,feb7,mar 7|1
+ererwe|qwe,wwrw,dw,d|2
+
+Quiz Title:marvel
+Who is the strongest avenger?|captain america,iron man,thor,hulk|4
